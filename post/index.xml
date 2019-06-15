@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https;//sxf2929840167.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Jun 2019 08:59:47 +0800</lastBuildDate>
+    
+	<atom:link href="https;//sxf2929840167.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https;//sxf2929840167.github.io/post/blog/</link>
+      <pubDate>Sat, 15 Jun 2019 08:59:47 +0800</pubDate>
+      
+      <guid>https;//sxf2929840167.github.io/post/blog/</guid>
+      <description> 这是一次格式的尝试 删除线
+这是列表的尝试  Windows Mac iOS  iPhone iPad  Android
+连接和email An example[http://www.4399.com/&amp;quot;4399&amp;quot;]
+  An email1913954104@qq.comlink.
+插图 </description>
+    </item>
+    
+  </channel>
+</rss>
